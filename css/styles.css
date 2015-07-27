@@ -821,6 +821,8 @@ p.small-title{
   width:auto !important;
   padding-right:20px;
   vertical-align: middle;
+  max-width: 100px;
+  min-width: 30px;
 }
 .ui-icon-triangle-1-s{
   background:none !important;
